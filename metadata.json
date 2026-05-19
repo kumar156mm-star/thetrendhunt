@@ -1,0 +1,6 @@
+{
+  "name": "TheTrendHunt",
+  "description": "A modern, premium electronics and fashion store with a dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
